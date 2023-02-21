@@ -39,7 +39,6 @@ In the line graph, there can be observed the total fare by city type throughout 
 ![Captura de Pantalla 2022-11-14 a la(s) 19 21 33](https://user-images.githubusercontent.com/114015620/201803116-f59ffd53-e5f8-489f-8c9d-9acffb7a6e46.png)
 
 
+## Summary & recommendations
 
-## Recommendations
-
-## Summary
+Based on the analysis on Pyber information, Urban market is the greatest one. The amount of drivers in Rural areas are considerably less, however, it matches the demand. We can also observe that the average fare in rural is higher, matching the law of supply and offer. It is also presented that Suburban is in the middle, for both drivers and fares. My recommendation would be to further analysis data, customer behaviours can help PyBer to develop better strategies. By using statistics, hypothesis can even be built. Does rural type trips cover longer distances? No doubt, there's still a lot to know to design strategies to increase profit.
